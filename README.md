@@ -1,2 +1,2 @@
 # P-class
-public-B1
+public-store
